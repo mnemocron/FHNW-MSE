@@ -1,4 +1,18 @@
 # Machine Learning 
+
+---
+
+**old MSP (python) on [studentbox.ch](https://studentbox.ch)**
+
+
+the following part is outdated
+
+please see the jupyter notebook for a more complete summary
+
+
+
+---
+
 ## Exam and Quiz Questions
 
 >for general questions answer with...
